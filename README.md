@@ -1,5 +1,11 @@
 # 💫 About Me:
-Hi there! 👋 I'm a Junior Developer passionate about building efficient and user-friendly web applications. I specialize in full-stack development, particularly using Node.js, Express, MongoDB, and Tailwind CSS. I'm always eager to solve complex problems and optimize backend structures, focusing on clean code and best practices like modularizing middleware, controllers, and routes.<br><br>Currently, I'm working on a job board web app that uses advanced resume parsing and job matching algorithms, helping to connect candidates with the right opportunities. Besides coding, I'm also diving into networking and stock market learning, as I'm constantly looking for ways to expand my skill set.<br><br>When I'm not coding, you'll find me troubleshooting network issues or learning something new in tech. I'm a big believer in slow but steady progress, and I enjoy deep-diving into each project I take on to fully understand the technologies I'm working with.<br><br>
+Hey there! 👋 I’m a Junior Developer who’s been hacking away at backend code like it’s a never-ending game of whack-a-mole. I’ve got my trusty sidekicks, Node.js, Express, and MongoDB, because apparently, I enjoy pain. I separate my routes, controllers, and middleware like it’s the law, but don’t ask me why the app still breaks—it’s probably something super obvious I’ve overlooked for hours.
+
+You might find me "taking things slow" because, let’s be real, it’s not by choice—every bug feels like a personal betrayal. Authentication with JWT? Yep, I’ve got that… unless, of course, bcrypt decides to throw me another 'Illegal arguments' error, because why should things go smoothly?
+
+Oh, and I’m also dabbling in networking and stocks—because when I’m not breaking my own web apps, I might as well break my clients' networks and my own bank account. Slow and steady wins the race, right? Let’s hope I’m running the right one!
+
+<br><br>
 
 
 ## 🌐 Socials:
