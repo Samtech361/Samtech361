@@ -1,9 +1,11 @@
 # 💫 About Me:
-Hey there! 👋 I’m a Junior Developer who’s been hacking away at backend code like it’s a never-ending game of whack-a-mole. I’ve got my trusty sidekicks, Node.js, Express, and MongoDB, because apparently, I enjoy pain. I separate my routes, controllers, and middleware like it’s the law, but don’t ask me why the app still breaks—it’s probably something super obvious I’ve overlooked for hours.
+Hey there — I'm Samuel, a fullstack web developer who thrives on building clean, scalable, and user-friendly web applications.
 
-You might find me "taking things slow" because, let’s be real, it’s not by choice—every bug feels like a personal betrayal. Authentication with JWT? Yep, I’ve got that… unless, of course, bcrypt decides to throw me another 'Illegal arguments' error, because why should things go smoothly?
+I specialize in JavaScript and React, and enjoy working across the stack to turn ideas into fast, functional, and beautiful digital products. Whether it’s crafting responsive UIs or designing efficient backend logic, I’m all about writing clean code and delivering real value.
 
-Oh, and I’m also dabbling in networking and stocks—because when I’m not breaking my own web apps, I might as well break my clients' networks and my own bank account. Slow and steady wins the race, right? Let’s hope I’m running the right one!
+I'm constantly learning, experimenting, and improving my workflow. Open to collaboration, contributions, and exciting new challenges.
+
+Let’s build something great. 🚀
 
 <br><br>
 
